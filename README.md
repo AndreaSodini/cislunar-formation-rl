@@ -92,9 +92,9 @@ Statistical evaluation on **10,000 independent episodes** with deterministic pol
 
 The CR3BP model is idealized, there is no centralized critic, and the Quasi-Halo variant uses a fixed time step. Next steps: centralized multi-agent architectures (MAPPO, MADDPG), an adaptive step for the Quasi-Halo variant, and higher-fidelity ephemeris models.
 
-## Code availability
+## Project context
 
-This work was carried out within the *MUSAPOEM* research project, funded by the Italian Space Agency (ASI). The source code is not published; this repository documents the method and the results.
+This work was carried out within the *MUSAPOEM* research project, funded by the Italian Space Agency (ASI). This page presents the method and the results; the implementation belongs to the project.
 
 ## Tech stack
 
